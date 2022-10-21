@@ -1,4 +1,4 @@
-:bowtie: :bowtie: 😄 :smile: 😆 :laughing:
+|:bowtie: :bowtie: 😄 :smile: 😆 :laughing:
 😊 :blush: 😃 :smiley: ☺️ :relaxed:
 😏 :smirk: 😍 :heart_eyes: 😘 :kissing_heart:
 😚 :kissing_closed_eyes: 😳 :flushed: 😌 :relieved:
@@ -226,10 +226,6 @@
 🇫🇷 :fr: 🇪🇸 :es: 🇮🇹 :it:
 🇷🇺 :ru: 🇬🇧 :gb: 🇬🇧 :uk:
 🇩🇪 :de:
-
-Symbols
-
-https://sihor.top/link/158#bkmrk-1%EF%B8%8F%E2%83%A3%C2%A0%3Aone%3A-2%EF%B8%8F%E2%83%A3%C2%A0%3Atwo%3A-
 
 1️⃣ :one: 2️⃣ :two: 3️⃣ :three:
 4️⃣ :four: 5️⃣ :five: 6️⃣ :six:
