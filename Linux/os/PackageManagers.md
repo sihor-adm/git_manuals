@@ -584,7 +584,3 @@ yum clean all
 ```bash
 yum history
 ```
-
-```
-
-```
