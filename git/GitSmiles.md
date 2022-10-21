@@ -1,4 +1,4 @@
- | :bowtie: | 
+ || :bowtie: | 
  | :smile: | 
  | :laughing: | 
  | :blush: | 
